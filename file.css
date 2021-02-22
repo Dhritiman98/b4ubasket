@@ -20,12 +20,14 @@ html,body {
 }
 #video
 {
-  background-color: #FAF3E0;
+  border-radius: 15px 50px;
+    background: #a7c5eb;
 }
 h3
 {
   margin-top: 0px;
     margin-bottom: 0px;
+    margin-left: 10px;
 }
 footer
 {
@@ -37,4 +39,5 @@ p{
 
     margin-top: 0px;
       margin-bottom: 0px;
+    margin-left: 10px;
 }
