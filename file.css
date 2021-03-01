@@ -159,3 +159,17 @@ padding: 10px;
   text-decoration: none;
   font-family: Arial, Helvetica, sans-serif;
 }
+.button {
+  background-color: #f25287;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button5 {border-radius: 50%;}
+.button4 {border-radius: 12px;}
