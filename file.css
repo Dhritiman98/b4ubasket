@@ -1,5 +1,5 @@
 .s-wrap {
-  
+
   width: 100%;
   height: 50px; /* Optional */
   border-radius: 15px 50px;
@@ -87,4 +87,75 @@ p{
       margin-bottom: 0px;
 
       margin-left: 10px;
+}
+#click
+{
+  padding-left: 11px;
+  text-decoration: none;
+}
+#click-here{
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+/*.pic6
+{
+  margin-left: 490px;
+border-left-width: 100px;
+}
+.pic3
+{
+  margin-left: 490px;
+border-left-width: 100px;
+}*/
+
+.pic1
+{
+  margin-left: 20px;
+  border: 2px solid #025955;
+padding: 10px;
+}
+.pic2
+{
+  margin-left: 220px;
+  border: 2px solid #025955;
+padding: 10px;
+}
+.pic3
+{
+  margin-left: 250px;
+  border: 2px solid #025955;
+padding: 10px;
+}
+.pic4
+{
+  margin-left: 20px;
+  border: 2px solid #025955;
+padding: 10px;
+}
+.pic5
+{
+  margin-left: 220px;
+  border: 2px solid #025955;
+padding: 10px;
+}
+.pic6
+{
+  margin-left: 250px;
+  border: 2px solid #025955;
+padding: 10px;
+}
+.main{
+  padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 15px;
+    border-radius: 25px;
+    border: 5px solid #26001b;
+  padding: 10px;
+}
+#bd
+{
+  background: linear-gradient(to bottom, #99ffcc 0%, #ffffcc 100%);
+
+}
+#image-select-captionText{
+  font-family: Arial, Helvetica, sans-serif;
 }
